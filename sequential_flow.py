@@ -33,11 +33,11 @@
 #     print("Set an alarm for 7 am!")
 
 
-temperature = 30
+# temperature = 30
 
-if temperature > 35:
-    print("It's hot outside")
-elif temperature < 15:
-    print("It's cold outside")
-else:
-    print("The weather is mild")
+# if temperature > 35:
+#     print("It's hot outside")
+# elif temperature < 15:
+#     print("It's cold outside")
+# else:
+#     print("The weather is mild")
