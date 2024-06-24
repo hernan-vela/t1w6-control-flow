@@ -32,6 +32,17 @@
 # if today == "Saturday":
 #     print("Set an alarm for 7 am!")
 
+# Type of protein depending on customer
+
+customer_type = "Vegetarian"
+
+if customer_type == "Normal":
+    print("All proteins")
+if customer_type == "Vegetarian":
+    print("Egg, dairy products and tofu")
+if customer_type == "Vegan":
+    print("Only tofu")
+
 
 # temperature = 30
 
